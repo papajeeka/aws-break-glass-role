@@ -4,5 +4,5 @@
     "profiles": ["integ"],
     "inspect-failures": true,
     "update-on-failed": true
-    "update-on-failed": true
+
 }
